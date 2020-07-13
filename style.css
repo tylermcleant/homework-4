@@ -1,5 +1,57 @@
 .divone, .divtwo, .divthree{
     width: 50px;
-    height: 50px;
-    background-color: ;
+    height: 200px;
+    background-color:black ;
+    margin: 50px;
+}
+
+
+body{
+    text-align: center;
+    color: black;
+    font-size: 18px; 
+}
+
+h1, h2{
+    text-decoration: underline;
+    color:blue;
+}
+
+.boxes{
+    height: 300px;
+}
+
+.divone{
+    background: red;
+    border: 3px solid black;
+}
+
+.divonenew{
+    background: pink;
+    border: 5px solid orange;
+}
+
+.divtwo{
+    background: blue;
+    border: 3px dashed yellow;
+}
+
+.divtwonew{
+    background: palegreen;
+    border: 3px dashed black;
+}
+
+.divthree{
+    background: limegreen;
+    border: 3px solid purple;
+}
+
+.divthreenew{
+    background: purple;
+    border: 3px solid limegreen;
+}
+
+button{
+    background: #e5e5e5;
+    padding: 5px 10px:
 }
