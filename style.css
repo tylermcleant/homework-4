@@ -12,9 +12,27 @@ body{
     font-size: 18px; 
 }
 
-h1, h2{
+h1{
+    text-decoration: underline;
+    font-size: 25px;
+    font-weight: 475;
+}
+
+h2, h3{
     text-decoration: underline;
     color:blue;
+    font-weight: 475;
+    font-size: 25px;
+    margin-bottom: 0.5in;
+}
+
+.hidetitle{
+    font-size: medium;
+    margin-top: 0.5in;
+}
+
+.buttons2{
+    margin-top: 50px;
 }
 
 .boxes{
